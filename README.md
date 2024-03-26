@@ -53,14 +53,7 @@
 
 <!-- <br/> -->
 
-<font size = "2">
 
-- Human-Pokemon-CycleGAN: https://Kaustubhpaul18.github.io/human-pokemon-cycleGAN
-- PokemonGAN: https://Kaustubhpaul18.github.io/PokemonGAN/
-- LUMOS: https://Kaustubhpaul18.github.io/dark-images-dataset-mini-2/
-- Blender 3D Projects: https://github.com/Kaustubhpaul18/blender-projects
-
-</font>
 
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
