@@ -1,6 +1,4 @@
-<!--<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=0yze7yareh19u7dy1kjabm97m&cover_image=true&theme=default&bar_color_cover=true" width="200"/>
--->
-![Header](./data/github-header-image.png)
+
 
 <!-- ## Hi 👋, I am Kaudtubh Paul, a technology ❤ enthusiast. -->
 <!-- <img  src="data/borderseperator.gif"> -->
