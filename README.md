@@ -8,7 +8,7 @@
 <!-- <img  src="data/borderseperator.gif"> -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/kaustubh-paul-676989215)) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Kaustubhpaul18?t=kUoj7OcFFlQkKn5YMoNmbg&s=09) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kaustubh_paul04?igsh=bGtnZW16NTVqZTR4))
+
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=gruvbox) -->
 <!-- <h4>(Also likes to be enthusiastic about everything else 🤩)</h4>
