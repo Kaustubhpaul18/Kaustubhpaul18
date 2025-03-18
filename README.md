@@ -21,11 +21,11 @@
 <h1 align="center">Hi 👋, I'm KAUSTUBH PAUL</h1>
 <h3 align="center">An Engineering student who loves to create, explore, code and learn new things.</h3>
 
-- <h4 align="right">🌱 I’m currently learning **Express JS, Solidity, Android Studio** </h4>
+- <h4 align="left">🌱 I’m currently learning **Express JS, Solidity, Android Studio** </h4>
 
-- <h4 align="right">📫 How to reach me **kaustubhpaul18j@gmail.com** </h4>
+- <h4 align="left">📫 How to reach me **kaustubhpaul18j@gmail.com** </h4>
 
-- <h4 align="right">⚡ Fun fact **I love games.** </h4>
+- <h4 align="left">⚡ Fun fact **I love games.** </h4>
 
 
 <br/>
@@ -140,7 +140,7 @@
 <a href="https://firebase.google.com/?gad_source=1&gclid=Cj0KCQjws-S-BhD2ARIsALssG0Y13Z8x0-hC-1S9Xri7d36wysAB7dDaeO4Z_dsNguXMuIhLhWhlTUwaAljIEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/firebase.png" alt="unreal" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/java.png" alt="unreal" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/react.png" alt="unreal" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/java.png" alt="unreal" width="40" height="40"/> </a>
+<a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/vite.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
 **Code Cycle**<br>
