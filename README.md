@@ -153,6 +153,7 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/oracle.png" alt="unreal" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/visual_studio_code.png" alt="unreal" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/postman.png" alt="unreal" width="40" height="40"/> </a>
+<a href="https://www.canva.com/en_in/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/canva.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
 **Code Cycle**<br>
