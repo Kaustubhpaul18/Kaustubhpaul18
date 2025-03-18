@@ -19,7 +19,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
 
 <h1 align="center">Hi 👋, I'm KAUSTUBH PAUL</h1>
-<h3 align="center">A Second Year Engineering student who loves to create, explore, code and learn new things.</h3>
+<h3 align="center">An Engineering student who loves to create, explore, code and learn new things.</h3>
 
 - 🌱 I’m currently learning **Python , Javascript ,**
 
