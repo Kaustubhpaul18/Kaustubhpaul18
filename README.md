@@ -21,11 +21,11 @@
 <h1 align="center">Hi 👋, I'm KAUSTUBH PAUL</h1>
 <h3 align="center">An Engineering student who loves to create, explore, code and learn new things.</h3>
 
-- 🌱 I’m currently learning **Express JS, Solidity, Android Studio **
+- <h4 align="right">🌱 I’m currently learning **Express JS, Solidity, Android Studio** </h4>
 
-- 📫 How to reach me **kaustubhpaul18j@gmail.com**
+- <h4 align="right">📫 How to reach me **kaustubhpaul18j@gmail.com** </h4>
 
-- ⚡ Fun fact **I love games.**
+- <h4 align="right">⚡ Fun fact **I love games.** </h4>
 
 
 <br/>
