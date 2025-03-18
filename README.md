@@ -141,6 +141,7 @@
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/java.png" alt="unreal" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/react.png" alt="unreal" width="40" height="40"/> </a>
 <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/vite.png" alt="unreal" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/ea523e3fe6927cb953339131a11c4cc3f63e206b/icons/node_js.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
 **Code Cycle**<br>
