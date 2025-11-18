@@ -57,9 +57,6 @@
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="20%" height="10%">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhpaul18&hide=TeX&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhpaul18&hide=TeX,OpenEdge%20ABL&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kaustubhpaul18)
 
 
