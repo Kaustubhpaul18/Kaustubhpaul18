@@ -58,23 +58,20 @@
 
 
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----------------------------------------------------------------Extra stuff ------------------------------------------------------------------------------------------>
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------- Extra stuff ----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="left">
-<a href="https://github.com/abhishek-choudharys/PokemonGAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-choudharys&repo=PokemonGAN&theme=dracula" />
-</a>
-</div>
+
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="20%" height="10%">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-choudharys&hide=TeX,OpenEdge%20ABL&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhishek-choudharys.abhishek-choudharys)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhpaul18&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhpaul18&hide=TeX,OpenEdge%20ABL&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kaustubhpaul18)
 
 
 
@@ -90,15 +87,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<a href="https://www.linkedin.com/in/abhishek-choudharys/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/awsm_abhishek_/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/lost_introvert">
-  <img align="left" alt="Abhishek's Tweets" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -124,7 +112,7 @@
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Kaustubhpaul18&icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 </p>
 
 <!--CHANGED TILL HERE-->
