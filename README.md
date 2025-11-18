@@ -48,12 +48,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubhpaul18&theme=red-blue" />
 
 </p>
-
-<!-- <p align="center"> 
+<!-- cHANGED FROM HERE -->
+ <p align="center"> 
    <img src= "https://github-profile-trophy.vercel.app/?username=Kaustubhpaul18&theme=onedark" />
 </p> -->
 
-<!-- <br/> -->
+<br/>
 
 
 
@@ -62,7 +62,7 @@
 <!----------------------------------------------------------------Extra stuff ------------------------------------------------------------------------------------------>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--
+
 <div align="left">
 <a href="https://github.com/abhishek-choudharys/PokemonGAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-choudharys&repo=PokemonGAN&theme=dracula" />
@@ -126,7 +126,8 @@
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek-choudharys&icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 </p>
--->
+
+<!--CHANGED TILL HERE-->
 
 
 <h3 align="left">Connect with me:</h3>
